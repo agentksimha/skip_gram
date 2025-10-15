@@ -10,9 +10,19 @@ A PyTorch implementation of the Skip-Gram model with Hierarchical Softmax from s
 - Analogy evaluation (e.g., king - man + woman ≈ queen).
 
 ## Installation
+Install directly from Pypi:
+
+```bash
+pip install skip-gram
+
+
+## Installation
 
 Install directly from GitHub:
 
 ```bash
 pip install git+https://github.com/agentksimha/skip_gram.git
+
+
+
 
