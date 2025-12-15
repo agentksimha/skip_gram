@@ -1,4 +1,5 @@
 # SkipGram-HS 
+https://pypistats.org/packages/skip-gram
 
 A PyTorch implementation of the Skip-Gram model with Hierarchical Softmax from scratch.
 
@@ -22,6 +23,7 @@ Install directly from GitHub:
 
 ```bash
 pip install git+https://github.com/agentksimha/skip_gram.git
+
 
 
 
